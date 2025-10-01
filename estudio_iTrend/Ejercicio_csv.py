@@ -35,3 +35,4 @@ plt.bar(total_ventas_por_producto_con_nombres[0], total_ventas_por_producto_con_
 print(total_ventas_por_producto_con_nombres)
 print(total_ventas_por_producto_con_nombres[1])
 plt.show()
+#a
